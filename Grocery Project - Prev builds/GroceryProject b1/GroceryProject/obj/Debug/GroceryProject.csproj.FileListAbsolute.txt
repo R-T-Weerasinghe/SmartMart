@@ -1,0 +1,160 @@
+c:\users\admin\documents\visual studio 2012\Projects\GroceryProject\GroceryProject\bin\Debug\GroceryProject.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\GroceryProject\GroceryProject\bin\Debug\GroceryProject.exe
+c:\users\admin\documents\visual studio 2012\Projects\GroceryProject\GroceryProject\bin\Debug\GroceryProject.pdb
+c:\users\admin\documents\visual studio 2012\Projects\GroceryProject\GroceryProject\bin\Debug\mscorlib.dll
+c:\users\admin\documents\visual studio 2012\Projects\GroceryProject\GroceryProject\bin\Debug\normidna.nlp
+c:\users\admin\documents\visual studio 2012\Projects\GroceryProject\GroceryProject\bin\Debug\normnfc.nlp
+c:\users\admin\documents\visual studio 2012\Projects\GroceryProject\GroceryProject\bin\Debug\normnfd.nlp
+c:\users\admin\documents\visual studio 2012\Projects\GroceryProject\GroceryProject\bin\Debug\normnfkc.nlp
+c:\users\admin\documents\visual studio 2012\Projects\GroceryProject\GroceryProject\bin\Debug\normnfkd.nlp
+c:\users\admin\documents\visual studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\GroceryProject.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\GroceryProject.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\GroceryProject.exe
+c:\users\admin\documents\visual studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\GroceryProject.pdb
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\Esoft_last_project.CustomerInterfaceFrm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\Esoft_last_project.StaffInterfaceFrm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\Esoft_last_project.StockEditFrm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\GroceryProject.ViewDBFrm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\Esoft_last_project.LoginFrm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\GroceryProject.StockViewFrm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\Esoft_last_project.WelcomeFrm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\GroceryProject.ManageAccountFrm.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\Esoft_last_project.SignUpFrm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\GroceryProject.EditDBFrm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\Esoft_last_project.CartFrm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\Esoft_last_project.ConfirmFrm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\Esoft_last_project.WalletFrm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\GroceryProject.PreviousPaymentsFrm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\GroceryProject.TestDataGrid.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\GroceryProject.OrdersFrm.resources
+C:\Users\Admin\Documents\Visual Studio 2012\Projects\GroceryProject\GroceryProject\obj\Debug\GroceryProject.csprojResolveAssemblyReference.cache
+F:\FkGroceryProject\GroceryProject\bin\Debug\GroceryProject.exe.config
+F:\FkGroceryProject\GroceryProject\obj\Debug\GroceryProject.exe
+F:\FkGroceryProject\GroceryProject\obj\Debug\GroceryProject.pdb
+F:\FkGroceryProject\GroceryProject\bin\Debug\GroceryProject.exe
+F:\FkGroceryProject\GroceryProject\bin\Debug\GroceryProject.pdb
+F:\FkGroceryProject\GroceryProject\bin\Debug\mscorlib.dll
+F:\FkGroceryProject\GroceryProject\bin\Debug\normidna.nlp
+F:\FkGroceryProject\GroceryProject\bin\Debug\normnfc.nlp
+F:\FkGroceryProject\GroceryProject\bin\Debug\normnfd.nlp
+F:\FkGroceryProject\GroceryProject\bin\Debug\normnfkc.nlp
+F:\FkGroceryProject\GroceryProject\bin\Debug\normnfkd.nlp
+F:\FkGroceryProject\GroceryProject\obj\Debug\Esoft_last_project.CartFrm.resources
+F:\FkGroceryProject\GroceryProject\obj\Debug\GroceryProject.EditDBFrm.resources
+F:\FkGroceryProject\GroceryProject\obj\Debug\GroceryProject.ManageAccountFrm.resources
+F:\FkGroceryProject\GroceryProject\obj\Debug\GroceryProject.OrdersFrm.resources
+F:\FkGroceryProject\GroceryProject\obj\Debug\GroceryProject.PreviousPaymentsFrm.resources
+F:\FkGroceryProject\GroceryProject\obj\Debug\Esoft_last_project.SignUpFrm.resources
+F:\FkGroceryProject\GroceryProject\obj\Debug\GroceryProject.StockViewFrm.resources
+F:\FkGroceryProject\GroceryProject\obj\Debug\Esoft_last_project.WalletFrm.resources
+F:\FkGroceryProject\GroceryProject\obj\Debug\Esoft_last_project.CustomerInterfaceFrm.resources
+F:\FkGroceryProject\GroceryProject\obj\Debug\Esoft_last_project.WelcomeFrm.resources
+F:\FkGroceryProject\GroceryProject\obj\Debug\Esoft_last_project.StaffInterfaceFrm.resources
+F:\FkGroceryProject\GroceryProject\obj\Debug\Esoft_last_project.LoginFrm.resources
+F:\FkGroceryProject\GroceryProject\obj\Debug\Esoft_last_project.StockEditFrm.resources
+F:\FkGroceryProject\GroceryProject\obj\Debug\GroceryProject.Properties.Resources.resources
+F:\FkGroceryProject\GroceryProject\obj\Debug\GroceryProject.ViewDBFrm.resources
+F:\FkGroceryProject\GroceryProject\obj\Debug\GroceryProject.csproj.GenerateResource.Cache
+F:\FkGroceryProject\GroceryProject\obj\Debug\GroceryProject.SplashScreenFrm.resources
+F:\FkGroceryProject\GroceryProject\bin\Debug\CircularProgressBar.dll
+F:\FkGroceryProject\GroceryProject\bin\Debug\WinFormAnimation.dll
+F:\FkGroceryProject\GroceryProject\bin\Debug\CircularProgressBar.xml
+F:\FkGroceryProject\GroceryProject\obj\Debug\GroceryProject.csprojResolveAssemblyReference.cache
+F:\GroceryProject\GroceryProject\bin\Debug\GroceryProject.exe.config
+F:\GroceryProject\GroceryProject\obj\Debug\GroceryProject.exe
+F:\GroceryProject\GroceryProject\obj\Debug\GroceryProject.pdb
+F:\GroceryProject\GroceryProject\bin\Debug\GroceryProject.exe
+F:\GroceryProject\GroceryProject\bin\Debug\GroceryProject.pdb
+F:\GroceryProject\GroceryProject\bin\Debug\CircularProgressBar.dll
+F:\GroceryProject\GroceryProject\bin\Debug\mscorlib.dll
+F:\GroceryProject\GroceryProject\bin\Debug\WinFormAnimation.dll
+F:\GroceryProject\GroceryProject\bin\Debug\CircularProgressBar.xml
+F:\GroceryProject\GroceryProject\bin\Debug\normidna.nlp
+F:\GroceryProject\GroceryProject\bin\Debug\normnfc.nlp
+F:\GroceryProject\GroceryProject\bin\Debug\normnfd.nlp
+F:\GroceryProject\GroceryProject\bin\Debug\normnfkc.nlp
+F:\GroceryProject\GroceryProject\bin\Debug\normnfkd.nlp
+F:\GroceryProject\GroceryProject\obj\Debug\GroceryProject.csprojResolveAssemblyReference.cache
+F:\GroceryProject\GroceryProject\obj\Debug\Esoft_last_project.CartFrm.resources
+F:\GroceryProject\GroceryProject\obj\Debug\GroceryProject.EditDBFrm.resources
+F:\GroceryProject\GroceryProject\obj\Debug\GroceryProject.ManageAccountFrm.resources
+F:\GroceryProject\GroceryProject\obj\Debug\GroceryProject.OrdersFrm.resources
+F:\GroceryProject\GroceryProject\obj\Debug\GroceryProject.PreviousPaymentsFrm.resources
+F:\GroceryProject\GroceryProject\obj\Debug\Esoft_last_project.SignUpFrm.resources
+F:\GroceryProject\GroceryProject\obj\Debug\GroceryProject.SplashScreenFrm.resources
+F:\GroceryProject\GroceryProject\obj\Debug\GroceryProject.StockViewFrm.resources
+F:\GroceryProject\GroceryProject\obj\Debug\Esoft_last_project.WalletFrm.resources
+F:\GroceryProject\GroceryProject\obj\Debug\Esoft_last_project.CustomerInterfaceFrm.resources
+F:\GroceryProject\GroceryProject\obj\Debug\Esoft_last_project.WelcomeFrm.resources
+F:\GroceryProject\GroceryProject\obj\Debug\Esoft_last_project.StaffInterfaceFrm.resources
+F:\GroceryProject\GroceryProject\obj\Debug\Esoft_last_project.LoginFrm.resources
+F:\GroceryProject\GroceryProject\obj\Debug\Esoft_last_project.StockEditFrm.resources
+F:\GroceryProject\GroceryProject\obj\Debug\GroceryProject.Properties.Resources.resources
+F:\GroceryProject\GroceryProject\obj\Debug\GroceryProject.ViewDBFrm.resources
+F:\GroceryProject\GroceryProject\obj\Debug\GroceryProject.csproj.GenerateResource.Cache
+F:\GroceryProject - Test\GroceryProject\bin\Debug\GroceryProject.exe.config
+F:\GroceryProject - Test\GroceryProject\obj\Debug\GroceryProject.exe
+F:\GroceryProject - Test\GroceryProject\obj\Debug\GroceryProject.pdb
+F:\GroceryProject - Test\GroceryProject\bin\Debug\GroceryProject.exe
+F:\GroceryProject - Test\GroceryProject\bin\Debug\GroceryProject.pdb
+F:\GroceryProject - Test\GroceryProject\bin\Debug\CircularProgressBar.dll
+F:\GroceryProject - Test\GroceryProject\bin\Debug\mscorlib.dll
+F:\GroceryProject - Test\GroceryProject\bin\Debug\WinFormAnimation.dll
+F:\GroceryProject - Test\GroceryProject\bin\Debug\CircularProgressBar.xml
+F:\GroceryProject - Test\GroceryProject\bin\Debug\normidna.nlp
+F:\GroceryProject - Test\GroceryProject\bin\Debug\normnfc.nlp
+F:\GroceryProject - Test\GroceryProject\bin\Debug\normnfd.nlp
+F:\GroceryProject - Test\GroceryProject\bin\Debug\normnfkc.nlp
+F:\GroceryProject - Test\GroceryProject\bin\Debug\normnfkd.nlp
+F:\GroceryProject - Test\GroceryProject\obj\Debug\Esoft_last_project.CartFrm.resources
+F:\GroceryProject - Test\GroceryProject\obj\Debug\GroceryProject.EditDBFrm.resources
+F:\GroceryProject - Test\GroceryProject\obj\Debug\GroceryProject.ManageAccountFrm.resources
+F:\GroceryProject - Test\GroceryProject\obj\Debug\GroceryProject.OrdersFrm.resources
+F:\GroceryProject - Test\GroceryProject\obj\Debug\GroceryProject.PreviousPaymentsFrm.resources
+F:\GroceryProject - Test\GroceryProject\obj\Debug\Esoft_last_project.SignUpFrm.resources
+F:\GroceryProject - Test\GroceryProject\obj\Debug\GroceryProject.SplashScreenFrm.resources
+F:\GroceryProject - Test\GroceryProject\obj\Debug\GroceryProject.StockViewFrm.resources
+F:\GroceryProject - Test\GroceryProject\obj\Debug\Esoft_last_project.WalletFrm.resources
+F:\GroceryProject - Test\GroceryProject\obj\Debug\Esoft_last_project.CustomerInterfaceFrm.resources
+F:\GroceryProject - Test\GroceryProject\obj\Debug\Esoft_last_project.WelcomeFrm.resources
+F:\GroceryProject - Test\GroceryProject\obj\Debug\Esoft_last_project.StaffInterfaceFrm.resources
+F:\GroceryProject - Test\GroceryProject\obj\Debug\Esoft_last_project.LoginFrm.resources
+F:\GroceryProject - Test\GroceryProject\obj\Debug\Esoft_last_project.StockEditFrm.resources
+F:\GroceryProject - Test\GroceryProject\obj\Debug\GroceryProject.Properties.Resources.resources
+F:\GroceryProject - Test\GroceryProject\obj\Debug\GroceryProject.ViewDBFrm.resources
+F:\GroceryProject - Test\GroceryProject\obj\Debug\GroceryProject.csproj.GenerateResource.Cache
+F:\GroceryProject b2\GroceryProject\bin\Debug\GroceryProject.exe.config
+F:\GroceryProject b2\GroceryProject\obj\Debug\GroceryProject.exe
+F:\GroceryProject b2\GroceryProject\obj\Debug\GroceryProject.pdb
+F:\GroceryProject b2\GroceryProject\bin\Debug\GroceryProject.exe
+F:\GroceryProject b2\GroceryProject\bin\Debug\GroceryProject.pdb
+F:\GroceryProject b2\GroceryProject\bin\Debug\CircularProgressBar.dll
+F:\GroceryProject b2\GroceryProject\bin\Debug\mscorlib.dll
+F:\GroceryProject b2\GroceryProject\bin\Debug\WinFormAnimation.dll
+F:\GroceryProject b2\GroceryProject\bin\Debug\CircularProgressBar.xml
+F:\GroceryProject b2\GroceryProject\bin\Debug\normidna.nlp
+F:\GroceryProject b2\GroceryProject\bin\Debug\normnfc.nlp
+F:\GroceryProject b2\GroceryProject\bin\Debug\normnfd.nlp
+F:\GroceryProject b2\GroceryProject\bin\Debug\normnfkc.nlp
+F:\GroceryProject b2\GroceryProject\bin\Debug\normnfkd.nlp
+F:\GroceryProject b2\GroceryProject\obj\Debug\GroceryProject.csprojResolveAssemblyReference.cache
+F:\GroceryProject b2\GroceryProject\obj\Debug\GroceryProject.AdminInterfaceFrm.resources
+F:\GroceryProject b2\GroceryProject\obj\Debug\Esoft_last_project.CartFrm.resources
+F:\GroceryProject b2\GroceryProject\obj\Debug\GroceryProject.EditDBFrm.resources
+F:\GroceryProject b2\GroceryProject\obj\Debug\GroceryProject.ManageAccountFrm.resources
+F:\GroceryProject b2\GroceryProject\obj\Debug\GroceryProject.OrdersFrm.resources
+F:\GroceryProject b2\GroceryProject\obj\Debug\GroceryProject.PreviousPaymentsFrm.resources
+F:\GroceryProject b2\GroceryProject\obj\Debug\Esoft_last_project.SignUpFrm.resources
+F:\GroceryProject b2\GroceryProject\obj\Debug\GroceryProject.StockViewFrm.resources
+F:\GroceryProject b2\GroceryProject\obj\Debug\Esoft_last_project.WalletFrm.resources
+F:\GroceryProject b2\GroceryProject\obj\Debug\Esoft_last_project.CustomerInterfaceFrm.resources
+F:\GroceryProject b2\GroceryProject\obj\Debug\Esoft_last_project.WelcomeFrm.resources
+F:\GroceryProject b2\GroceryProject\obj\Debug\Esoft_last_project.StaffInterfaceFrm.resources
+F:\GroceryProject b2\GroceryProject\obj\Debug\Esoft_last_project.LoginFrm.resources
+F:\GroceryProject b2\GroceryProject\obj\Debug\Esoft_last_project.StockEditFrm.resources
+F:\GroceryProject b2\GroceryProject\obj\Debug\GroceryProject.Properties.Resources.resources
+F:\GroceryProject b2\GroceryProject\obj\Debug\GroceryProject.ViewDBFrm.resources
+F:\GroceryProject b2\GroceryProject\obj\Debug\GroceryProject.csproj.GenerateResource.Cache
+F:\GroceryProject b1\GroceryProject\bin\Debug\GroceryProject.exe.config
+F:\GroceryProject b1\GroceryProject\obj\Debug\GroceryProject.exe
+F:\GroceryProject b1\GroceryProject\obj\Debug\GroceryProject.pdb
