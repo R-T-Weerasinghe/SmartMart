@@ -21,7 +21,14 @@ This app is a fully-fleged solution to the ecommerce site of the company SmartMa
 
 The app successfully manages each and every aspect of the ecommerce business.
 
+## Technologies
+- Visual Studio 2017
+- C# language
+- MySQL server
+
 ## Screenshots
+
+> **NOTE:** I am aware that the button colour choices are *really bad*. But this was the first time I ever designed & developed an app. I am a much better developer now who follows the industry standards and guildlines very thoroughly to offer a great UX.
 
 ### General
 <table>
@@ -102,3 +109,30 @@ The app successfully manages each and every aspect of the ecommerce business.
     </td>
    </tr> 
 </table>
+
+### Customer
+<table>
+   <tr>
+    <td align="center">
+          <img src="Pics/4Customer/Customer Interface.png"  alt="1" width = 200px />
+       <br>
+       <b>Customer panel</b>
+    </td>
+          <td align="center">
+          <img src="Pics/4Customer/ItemPreview Frm.png"  alt="1" width = 200px />
+       <br>
+       <b>Item view</b>
+    </td>
+    <td align="center">
+          <img src="Pics/4Customer/Cart Frm.png"  alt="1" width = 200px />
+       <br>
+       <b>Virtual cart</b>
+    </td>
+          <td align="center">
+          <img src="Pics/4Customer/PreviousPayments Frm.png"  alt="1" width = 200px />
+       <br>
+       <b>Previous orders</b>
+    </td>
+   </tr> 
+</table>
+
